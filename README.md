@@ -8,6 +8,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `npm start`
 
+<img width="1233" alt="App Screenshot" src="https://user-images.githubusercontent.com/11755330/110275580-535c0800-7f9f-11eb-8816-d748537b719a.png">
+
 ## Available Scripts
 
 In the project directory, you can run:
